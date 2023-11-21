@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" EC1 កម្រៃជើងសារ​ 50%",
+        "price": 6,
+        "image": "https://raw.githubusercontent.com/HoanghoDev/add_to_cart_v3/9f5eaf2e2576e0b599b35ef00f5c12e04c2f09e0/image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" EC2 កម្រៃជើងសារ​ 65%",
+        "price": 12,
+        "image": "https://raw.githubusercontent.com/HoanghoDev/add_to_cart_v3/9f5eaf2e2576e0b599b35ef00f5c12e04c2f09e0/image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" EC3 កម្រៃជើងសារ​ 66%",
+        "price": 15,
+        "image": "https://raw.githubusercontent.com/HoanghoDev/add_to_cart_v3/9f5eaf2e2576e0b599b35ef00f5c12e04c2f09e0/image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" EC4 កម្រៃជើងសារ​ 68%",
+        "price": 25.9,
+        "image": "https://raw.githubusercontent.com/HoanghoDev/add_to_cart_v3/9f5eaf2e2576e0b599b35ef00f5c12e04c2f09e0/image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" EC5 កម្រៃជើងសារ​ 70%",
+        "price": 39.98,
+        "image": "https://raw.githubusercontent.com/HoanghoDev/add_to_cart_v3/9f5eaf2e2576e0b599b35ef00f5c12e04c2f09e0/image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" EC6 កម្រៃជើងសារ​ 72%",
+        "price": 57.34,
+        "image": "https://raw.githubusercontent.com/HoanghoDev/add_to_cart_v3/9f5eaf2e2576e0b599b35ef00f5c12e04c2f09e0/image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" EC7 កម្រៃជើងសារ​ 75%",
+        "price": 100,
+        "image": "https://raw.githubusercontent.com/HoanghoDev/add_to_cart_v3/9f5eaf2e2576e0b599b35ef00f5c12e04c2f09e0/image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" EC8 កម្រៃជើងសារ​ 80%",
+        "price": 156.78,
+        "image": "https://raw.githubusercontent.com/HoanghoDev/add_to_cart_v3/9f5eaf2e2576e0b599b35ef00f5c12e04c2f09e0/image/8.png"
+    }
+
+]
